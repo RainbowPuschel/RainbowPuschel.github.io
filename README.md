@@ -1,13 +1,13 @@
 # Raiyan Bin Sarwar
-Welcome to my personal portfolio! I’m a third-year CSE undergraduate at Bangladesh University of Professionals and a Microsoft Student Ambassador (Beta).
+This maybe already will be consideriably forthcomming forthtold in the Future forthgoing from the Past of the Present a Portfolio
 
 ## About Me
-I have experience in cloud computing, low-code platforms, and technology communities.
+Haha Cars go Vroom
 
 ## Skills
-- Cloud Computing
-- GitHub & Git
-- Microsoft Power Platform
+- Retarded
+- Noises
+- Maybe Programming
 
 ## Contact
-You can reach me at [LinkedIn](https://www.linkedin.com/username) or [GitHub](https://github.com/username).
+You can reach me at [Penis](www.google.de).
